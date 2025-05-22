@@ -1,0 +1,5 @@
+Drone(id=0, max_weight=9.37, battery=2478, speed=7.8, start_pos=(83, 86))
+Drone(id=1, max_weight=5.28, battery=3272, speed=17.3, start_pos=(65, 63))
+Drone(id=2, max_weight=6.16, battery=4240, speed=13.8, start_pos=(11, 18))
+Drone(id=3, max_weight=7.19, battery=2436, speed=12.1, start_pos=(68, 19))
+Drone(id=4, max_weight=6.86, battery=3829, speed=5.2, start_pos=(40, 43))
