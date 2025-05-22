@@ -8,3 +8,6 @@ class Drone:
         self.battery_level = battery       # current battery level (int)
         self.charging_time = 0             # charging time (minute,int)
         self.current_pos = start_pos       # current position (at the beggining start_pos)
+
+    def __repr__(self):
+        return f"Drone(id={self.id}, max_weight={self.max_weight}, battery={self.battery}, speed={self.speed}, start_pos={self.start_pos})"
