@@ -1,2 +1,2 @@
 # DroneFleetOptimization
-This project focuses on optimizing the delivery routes of a drone fleet operating under strict constraints such as battery limits and dynamic no-fly zones.
+This project focuses on optimizing the delivery routes of a drone fleet operating under strict constraints such as battery limits and dynamic no-fly zones. Using A* and Genetic Algorithms, the system determines efficient delivery plans while avoiding restricted areas and minimizing energy consumption. The solution is visualized on a 2D map and supports random scenario generation for testing flexibility.
